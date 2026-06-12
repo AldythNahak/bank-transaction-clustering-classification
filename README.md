@@ -90,7 +90,7 @@ Model Evaluation & Comparison
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/<your-username>/bank-transaction-clustering-classification.git
+git clone https://github.com/AldythNahak/bank-transaction-clustering-classification.git
 cd bank-transaction-clustering-classification
 ```
 
